@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "테스트 포스트 내맘대로"
+title:  "테스트 포스트 내맘대로(2nd test)"
 subtitle: "R 분서 결과 포스팅 내맘대 테스트"
 type: "Development"
 blog: true
@@ -43,7 +43,7 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-```{r echo=TRUE, message=FALSE, warning=FALSE, purl=FALSE}
+```{r echo=TRUE, message=TRUE, warning=TRUE, purl=FALSE}
 require(ggplot2)
 require(plotly)
 
@@ -57,18 +57,13 @@ hhj_theme <- theme_classic(base_family="NanumGothic") +
 theme_set(hhj_theme)
 ```
 
+---
+> plot result
 
-
-```{r , echo=TRUE}
+```{r}
 p <- ggplot(pressure, aes(temperature, pressure, color = "")) +
   geom_point()
 
-#call
-htmltools::div(ggplotly(p), align="center") 
-```
-
-
-```{r}
 p
 ```
 
