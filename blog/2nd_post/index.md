@@ -10,6 +10,9 @@ post-header: true
 order: 2
 ---
 
+# big data analytics with R
+## 그냥 이래이래 저래저래
+
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 엠포스에서 빅데이터 분석을 해봤습니다<sub>~</sub><http://http://www.emforce.co.kr>
