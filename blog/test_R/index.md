@@ -1,5 +1,17 @@
-R Markdown
-----------
+---
+layout: post
+title:  "테스트 포스트 내맘대로"
+subtitle: "R 분서 결과 포스팅 내맘대 테스트"
+type: "Analysis"
+blog: true
+text: true
+author: "Hojae Han"
+post-header: true
+order: 1
+---
+
+# big data analytics with R
+## 그냥 이래이래 저래저래
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
