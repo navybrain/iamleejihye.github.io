@@ -1,5 +1,5 @@
 # Git hub page test
 
-It's forked from (chesterhow/tale)[https://github.com/chesterhow/tale].
+It's forked from (iamleejihye)[https://github.com/iamleejihye/iamleejihye.github.io].
 
 © testpage
