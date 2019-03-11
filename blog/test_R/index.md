@@ -7,7 +7,7 @@ blog: true
 text: true
 author: "Hojae Han"
 post-header: true
-order: 3
+order: 1
 ---
 
 # big data analytics with R
