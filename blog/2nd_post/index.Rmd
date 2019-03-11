@@ -8,6 +8,9 @@ text: true
 author: "Hojae Han"
 post-header: true
 order: 4
+output: 
+  html_document:
+    keep_md: yes
 ---
 
 ```{r setup, message = FALSE, echo = FALSE, warning=FALSE}
