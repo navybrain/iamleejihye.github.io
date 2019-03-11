@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "테스트 포스트 내맘대로(2nd test)"
-subtitle: "R 분서 결과 포스팅 내맘대 테스트"
+subtitle: "R 분석 결과 포스팅 내맘대 테스트"
 type: "Development"
 blog: true
 text: true
