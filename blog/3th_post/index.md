@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "소셜데이터 분석을 통한 트랜드 리포트"
-subtitle: "상반기 고객 평판 분석"
-type: "소셜분석"
+title:  "마케팅 데이터와 데이터 사이언스의 만남"
+subtitle: "리포트 데이터 분석을 통한 ROAS예측 모델"
+type: "심층 리포트 분석"
 blog: true
 text: true
 author: "Hojae Han"
 post-header: true
-order: 2
+order: 3
 ---
 
 # big data analytics with R
