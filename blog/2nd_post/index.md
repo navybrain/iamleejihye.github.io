@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "소셜데이터 분석을 통한 트랜드 리포트"
+title:  "소셜데이터 분석을 통한 트렌드 리포트"
 subtitle: "상반기 고객 평판 분석"
 type: "소셜분석"
 blog: true
@@ -11,7 +11,7 @@ order: 2
 ---
 
 # big data analytics with R
-## 그냥 이래이래 저래저래
+## 소셜 빅데이터 분석
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 

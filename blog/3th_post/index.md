@@ -11,7 +11,7 @@ order: 3
 ---
 
 # big data analytics with R
-## 그냥 이래이래 저래저래
+## 리포트 데이터 분석을 통한 ROAS예측 모델
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
