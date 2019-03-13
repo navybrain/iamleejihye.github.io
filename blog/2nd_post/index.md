@@ -19,22 +19,6 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-``` r
-summary(cars)
-```
-
-    ##      speed           dist       
-    ##  Min.   : 4.0   Min.   :  2.00  
-    ##  1st Qu.:12.0   1st Qu.: 26.00  
-    ##  Median :15.0   Median : 36.00  
-    ##  Mean   :15.4   Mean   : 42.98  
-    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-    ##  Max.   :25.0   Max.   :120.00
-
-    ## 'data.frame':    50 obs. of  2 variables:
-    ##  $ speed: num  4 4 7 7 8 9 10 10 10 11 ...
-    ##  $ dist : num  2 10 4 22 16 10 18 26 34 17 ...
-
 Including Plots
 ---------------
 
