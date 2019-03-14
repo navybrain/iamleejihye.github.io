@@ -21,7 +21,7 @@ Plain text 본문 입니다.
 
 ~~strikethrough~~ ~~취소선 입니다.~~
 
-[link](www.emforce.co.kr) [링크입니다.](www.emforce.co.kr)  www.emforce.co.kr
+[link](www.emforce.co.kr) [링크입니다.](www.emforce.co.kr)  (www.emforce.co.kr)
 
 # Header 1
 ## Header 2
