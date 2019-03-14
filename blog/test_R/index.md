@@ -9,19 +9,17 @@ author: "작성자 입니다."
 post-header: true
 order: 1
 ---
-Plain text
+Plain text 본문 입니다.
 
 End a line with two spaces to start a new paragraph.  
   
-*italics* and _italics_
+*italics* and _italics_ *이탤릭체 입니다.*
 
-**bold** and __bold__
+**bold** and __bold__ **볼드체 입니다.**
 
-superscript^2^
+~~strikethrough~~ ~~취소선 입니다.~~
 
-~~strikethrough~~
-
-[link](www.rstudio.com)
+[link](www.emforce.co.kr) [링크입니다.](www.emforce.co.kr)
 
 # Header 1
 ## Header 2
@@ -30,6 +28,7 @@ superscript^2^
 ##### Header 5
 
 ```r
+# 코드입니다.
 paste("Hello", "World!")
 ```
 
@@ -37,7 +36,7 @@ horizontal rule (or slide break):
 
 ***
 
-> block quote
+> block quote 요약 입니다.
 
 * unordered list
 * item 2
