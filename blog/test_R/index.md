@@ -59,4 +59,3 @@ Table Cell    | Cell 2        | 값 1
 Cell 3        | Cell 4        | 값 2
 
 
-{% include 1st_blog_contents.html %}
