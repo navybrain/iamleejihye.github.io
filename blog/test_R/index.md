@@ -11,7 +11,8 @@ order: 1
 ---
 Plain text 본문 입니다.
 
-문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다. 
+문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다.
+
   
 *italics* and _italics_ *이탤릭체 입니다.*
 
@@ -21,7 +22,7 @@ Plain text 본문 입니다.
 
 ~~strikethrough~~ ~~취소선 입니다.~~
 
-[link](www.emforce.co.kr) [링크입니다.](www.emforce.co.kr)  (www.emforce.co.kr)
+[link](www.emforce.co.kr) [링크입니다.](www.emforce.co.kr)  [www.emforce.co.kr](www.emforce.co.kr)
 
 # Header 1
 ## Header 2
@@ -29,12 +30,13 @@ Plain text 본문 입니다.
 #### Header 4
 ##### Header 5
 
+
 ```r
 # 코드입니다.
 paste("Hello", "World!")
 ```
 
-horizontal rule (or slide break):
+horizontal rule (or slide break) 수평라인 입니다. :
 
 ***
 
@@ -49,6 +51,7 @@ horizontal rule (or slide break):
 2. item 2
     + sub-item 1
     + sub-item 2
+
 
 Table Header  | Second Header | 표 헤더 입니다.
 ------------- | ------------- | -------------
