@@ -57,3 +57,6 @@ Table Header  | Second Header | 표 헤더 입니다.
 ------------- | ------------- | -------------
 Table Cell    | Cell 2        | 값 1
 Cell 3        | Cell 4        | 값 2
+
+
+{% include 1st_blog_contents.html %}
