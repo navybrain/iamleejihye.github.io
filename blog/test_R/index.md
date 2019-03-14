@@ -11,15 +11,17 @@ order: 1
 ---
 Plain text 본문 입니다.
 
-End a line with two spaces to start a new paragraph.  
+문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다 문장입니다. 
   
 *italics* and _italics_ *이탤릭체 입니다.*
 
 **bold** and __bold__ **볼드체 입니다.**
 
+`text` and `음영 강조 입니다.`
+
 ~~strikethrough~~ ~~취소선 입니다.~~
 
-[link](www.emforce.co.kr) [링크입니다.](www.emforce.co.kr)  'www.emforce.co.kr'
+[link](www.emforce.co.kr) [링크입니다.](www.emforce.co.kr)  www.emforce.co.kr
 
 # Header 1
 ## Header 2
