@@ -8,7 +8,7 @@ description: ooo, who is a Big Data Analyst based in Seoul, South Korea. | 'ooo'
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm ooo,
+    I'm Hojae Han,
     </h1>
     <h1 class="intro">a Big Data Analyst at
         <div class="intro-link">
