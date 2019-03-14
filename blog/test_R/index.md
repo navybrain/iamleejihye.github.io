@@ -50,7 +50,7 @@ horizontal rule (or slide break):
     + sub-item 1
     + sub-item 2
 
-Table Header  | Second Header
-------------- | -------------
-Table Cell    | Cell 2
-Cell 3        | Cell 4
+Table Header  | Second Header | 표 헤더 입니다.
+------------- | ------------- | -------------
+Table Cell    | Cell 2        | 값 1
+Cell 3        | Cell 4        | 값 2
