@@ -11,7 +11,7 @@ order: 1
 ---
 Plain text
 
-End a line with two spaces
+End a line with two spaces  
 
 to start a new paragraph.
 
