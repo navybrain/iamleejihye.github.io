@@ -52,4 +52,3 @@ Table Header  | Second Header
 ------------- | -------------
 Table Cell    | Cell 2
 Cell 3        | Cell 4
-P
