@@ -37,6 +37,7 @@ horizontal rule (or slide break):
 2. item 2
     + sub-item 1
     + sub-item 2
+
 Table Header  | Second Header
 ------------- | -------------
 Table Cell    | Cell 2
