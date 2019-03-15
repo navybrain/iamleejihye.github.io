@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "RMD 테스트"
+subtitle: "상반기 고객 평판 분석"
+type: "소셜분석"
+blog: true
+text: true
+author: "Hojae Han"
+post-header: true
+order: 4
+output: github_document
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+엠포스에서 빅데이터 분석을 해봤습니다~~~<http://http://www.emforce.co.kr>
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+```{r, echo=FALSE}
+str(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+```{r echo=TRUE, message=FALSE, warning=FALSE, purl=FALSE}
+require(ggplot2)
+require(plotly)
+
+hhj_theme <- theme_classic(base_family="AppleGothic") +
+  theme(#axis.text.x = element_text(angle = 45),
+    strip.background = element_rect(colour = "white", fill = "white"), 
+    axis.line = element_line(colour = "#EBEBEB"), 
+    panel.spacing = unit(1, "lines")
+  )
+
+theme_set(hhj_theme)
+```
+
+```{r echo=TRUE, , echo=TRUE}
+p <- ggplot(pressure, aes(temperature, pressure, color = "")) +
+  geom_point()
+
+#call
+#ggplotly(p)
+```
+
+```{r echo=TRUE, , echo=TRUE}
+#call
+p
+```
