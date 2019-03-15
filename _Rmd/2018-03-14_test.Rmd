@@ -6,6 +6,7 @@ type: "소셜분석"
 blog: true
 text: true
 author: "Hojae Han"
+date: 2019-03-15
 post-header: true
 order: 4
 ---
