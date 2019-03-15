@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "RMD 테스트"
+title:  "RMD to MD, 이미지 화질 테스트"
 subtitle: "상반기 고객 평판 분석"
 type: "소셜분석"
 blog: true
 text: true
 author: "Hojae Han"
-date: 2019-03-15
 post-header: true
 order: 4
 ---
@@ -56,15 +55,8 @@ hhj_theme <- theme_classic(base_family="AppleGothic") +
 theme_set(hhj_theme)
 ```
 
-```{r echo=TRUE, , echo=TRUE}
+```{r echo=TRUE, , echo=TRUE, dpi=200}
 p <- ggplot(pressure, aes(temperature, pressure, color = "")) +
   geom_point()
-
-#call
-#ggplotly(p)
-```
-
-```{r echo=TRUE, , echo=TRUE}
-#call
 p
 ```
