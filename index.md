@@ -19,7 +19,7 @@ description: Hojae Han, who is a Big Data Analyst based in Seoul, South Korea. |
             <div class="underline"></div>
         </div>.
     </h1>
-    <h2 class="intro">'ooo' 분석블로그 테스트중 입니다.</h2>
+    <h2 class="intro"> 데이터사이언스 블로그 테스트중 입니다.</h2>
 </section>
 </div>
 {% include resume.html %}
